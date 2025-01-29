@@ -9,12 +9,21 @@ quer usar o scritp?
 siga os passos 
 
 apt update
+
 apt upgrade
-##apertar "Y"+"ENTER"(Caso necessario)
+
+##apertar "Y"+"ENTER"(Caso necessario)##
+
 apt install git
-###apertar "Y"+"ENTER" (caso necessario)
+
+###apertar "Y"+"ENTER" (caso necessario)###
+
 git clone https://github.com/REDSEC90/Orion.git
-##aperte "Y"+"ENTER" (caso necessario)
+
+##aperte "Y"+"ENTER" (caso necessario)##
+
 cd Orion
+
 python main.py
+
 ##depois disso toda a cli do programa é bem simples.##
