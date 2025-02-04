@@ -2,7 +2,7 @@ olá a todos sou wendell; criador do orion.
 meu plano para este repositorio é criar scripts.
 que ajudem em scalping-trading.
 ele é uma cli simples; em python;
-e aos poucos eu irei incluir uma IA
+e aos poucos eu irei incluir mais funcionalidades
 Usando outras linguagens. mas este scritp
 sera definitivo e novas funcionalidades seram implementadas
 quer usar o scritp?
