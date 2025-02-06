@@ -27,3 +27,7 @@ cd Orion
 python main.py
 
 ##depois disso toda a cli do programa é bem simples.##
+
+##no momento tem duas opcoes filtrar listar(1) removendo linhas que conter sinais que deram loss
+
+##(2) processar lista, a segunda opcao é para alterar a expiracao do sinal podendo escolher entre M1 e M5
